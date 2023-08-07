@@ -1,0 +1,8 @@
+input_name=input("Enter name:")
+input_surname=input("Enter surname:")
+input_age=input("Enter age:")
+age=int(input_age)
+print("My name is",input_name)
+print("My surname is",input_surname)
+print("Now I'm",input_age,"years old")
+print("I'll finish graduate in",age+4,"years old")
